@@ -1,0 +1,5 @@
+Stapler Test Cases
+1)Testing pin remover
+2)Testing pins holder
+3)Testing the stapler spring
+4)Testing stapling pin
